@@ -1,0 +1,19 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+
+ <player name="Red" skin="character_red.png" hp="4" broken="1"
+	portrait="portrait_red.png"
+	nameimage="name_red.png"
+	skinColor="3"
+	costumeSuffix="red"
+	birthright="I KILLED MELISSA"
+ />
+
+ <player name="Red" skin="character_gray.png" black="2" broken="2"
+	portrait="portrait_gray.png"
+	nameimage="name_red.png"
+	skinColor="1"
+	bSkinParent="Red"
+	costumeSuffix="gray"
+ />
+
+</players>

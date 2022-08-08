@@ -1,0 +1,24 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/red_death_items.anm2" version="1">
+	<active name="Red's Key"	description="I'll tell you a secret.." gfx="collectible.reds_key.png" id="21" quality="4" noeden="true" maxcharges="3"/>
+
+	<passive name="Pathos"		description="Extra weeping" 						gfx="collectible.pathos.png" id="1" quality="3"	cache="firedelay"/>
+	<passive name="Trance"		description="Listen to me!" 	 					gfx="collectible.trance.png" id="2" quality="2"	cache="damage shotspeed"/>
+	<passive name="Dementia" 	description="I think I forgot something.."			gfx="collectible.dementia.png" id="3" quality="2"	cache="all"/>
+	<passive name="Entropy" 	description="Disorder is key" 						gfx="collectible.entropy.png" id="4" quality="4" lazarusshared="true"	cache="flying"/>
+	<passive name="Extus" 		description="The outer reaches"						gfx="collectible.extus.png" id="5" quality="4"	cache="all"/>
+	<passive name="Zenith"		description="It revolves around me!"				gfx="collectible.zenith.png" id="6" quality="2"	cache="damage"/>
+	<passive name="Gelid"		description="Cooler than being cool"				gfx="collectible.gelid.png" id="10" quality="4"	cache="damage"/>
+	<passive name="Corona"		description="Mirror Shine"							gfx="collectible.corona.png" id="11" quality="2"	cache="damage"/>
+	<passive name="Amorphis"	description="I'm gonna be sick!"					gfx="collectible.amorphis.png" id="12" quality="3"	cache="damage"/>
+	<passive name="Tempest"		description="Summon Whirlwind"						gfx="collectible.tempest.png" id="13" quality="4"	cache="damage"/>
+	<passive name="Alkali"		description="You want it? It's yours my friend."	gfx="collectible.alkali.png" id="14" quality="4"	cache="damage"/>
+	<passive name="Edacitus"	description="Insatiable Hunger"						gfx="collectible.edacitus.png" id="15" quality="3"	cache="damage"/>
+	<passive name="Caldera"		description="Boiling Rage"							gfx="collectible.caldera.png" id="16" quality="2"	cache="damage"/>
+	
+	<passive name="Lil Melissa" 	description="Not much time" 		gfx="collectible.lil_melissa.png" id="7" quality="2"	cache="familiars" 	tags="baby summonable monstermanual"/>
+	<passive name="Lil Warlock" 	description="I told you to leave" 	gfx="collectible.lil_warlock.png" id="8" quality="3"	cache="familiars"	tags="baby summonable monstermanual"/>
+	<passive name="Lil Acacius" 	description="The golden light"		gfx="collectible.lil_acacius.png" id="9" quality="4"	cache="familiars" 	tags="baby summonable monstermanual"/>
+
+	<trinket name="Red Lock"	description="Open for business" gfx="trinket.red_lock.png"/>
+	<trinket name="Red Handle"	description="It yearns for its other half" gfx="trinket.red_handle.png"/>
+</items>

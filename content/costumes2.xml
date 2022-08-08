@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/characters/" version="2">
+	<costume id="1" anm2path="costume.red_head.anm2" type="none" priority="1"/>
+	<costume id="2" anm2path="costume.red_body.anm2" type="none" priority="1"/>
+	<costume id="3" anm2path="character_gray_head.anm2" type="none" priority="1"/>
+</costumes>

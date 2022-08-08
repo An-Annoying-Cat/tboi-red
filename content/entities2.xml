@@ -1,0 +1,19 @@
+<entities anm2root="gfx/" version="5">
+	<entity anm2path="card.soulred.anm2" collisionRadius="12" friction="1" id="5" name="Soul of Red" variant="300" subtype="624" numGridCollisionPoints="24" shadowSize="16" collisionMass="3"/>
+	<entity anm2path="card.monstercard.anm2" collisionRadius="12" friction="1" id="5" name="Monster Card" variant="300" subtype="625" numGridCollisionPoints="24" shadowSize="16" collisionMass="3"/>
+	<entity anm2path="familiar.melissa.anm2" id="3" variant="2434" shadowSize="9" name="Lil' Melissa" friction ="1" numGridCollisionPoints="9"/>
+	<entity anm2path="familiar.warlock.anm2" id="3" variant="2434" shadowSize="9" name="Lil' Warlock" friction ="1" numGridCollisionPoints="9"/>
+	<entity anm2path="familiar.acacius.anm2" id="3" variant="2434" shadowSize="9" name="Lil' Acacius" friction ="1" numGridCollisionPoints="9"/>
+
+	<entity anm2path="pickup.reds_chest.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction=".9" id="5" name="Red's Chest" numGridCollisionPoints="24" shadowSize="27" stageHP="0" variant="2434">
+    		<preload-snd id="22" /> <!-- CHEST_OPEN -->
+		<preload-snd id="156" /> <!-- UNLOCK00 -->
+	</entity>
+
+	<entity anm2path="pickup.cheat_card.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Cheat Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="623">
+		<gibs amoun="0" bone="0" eye="0" gut="0" large="0"/>
+	</entity>
+
+	<entity anm2path="pickup.reds_chest_opened.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction=".9" id="5" name="Red's Chest (Opened)" numGridCollisionPoints="24" shadowSize="27" stageHP="0" variant="2435"/>
+	
+</entities>

@@ -1,0 +1,5 @@
+<pocketitems>
+	<card type="suit" description="It can do anything!" name="Cheat Card" mimiccharge="12"	hud="CheatCard" pickup="623"/>
+	<card type="rune" description="Explore further" name="Soul of Red" mimiccharge="6" hud="SoulofRed" pickup="624"/>
+	<card type="suit" description="Some big help" name="Monster Card" mimiccharge="12" hud="MonsterCard" pickup="625"/>
+</pocketitems>

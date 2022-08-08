@@ -1,0 +1,23 @@
+<ItemPools>
+	<Pool Name="treasure">
+		<Item Name="Red's Key" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Lil Acacius" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Lil Warlock" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Lil Melissa" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="planetarium">
+		<Item Name="Pathos" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Trance" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Dementia" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Entropy" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Extus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Zenith" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Gelid" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Corona" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Amorphis" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Tempest" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Alkali" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Edacitus" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+		<Item Name="Caldera" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>
